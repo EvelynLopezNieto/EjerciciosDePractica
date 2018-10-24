@@ -1,4 +1,8 @@
 
+//PROGRAMA EN PROCESO DE MEJORACION DEL CODIGO
+/*El siguiente programa fue desarrollado como una herramienta para el registro controlado de las materias
+ de una alumno. Las clases instanciadas aquí se encuentran dentro del paquete de este programa.*/
+
 package MiHorarioDeClases;
 
 import javax.swing.*;

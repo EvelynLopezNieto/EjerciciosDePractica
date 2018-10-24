@@ -1,4 +1,5 @@
 
+//Clase para realizar los registros de materia del dia lunes
 package MiHorarioDeClases;
 
 import java.io.*;

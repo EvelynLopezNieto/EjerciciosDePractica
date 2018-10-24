@@ -1,4 +1,5 @@
 
+//Clase para realizar los registros de materia del dia martes
 package MiHorarioDeClases;
 
 import javax.swing.*;
